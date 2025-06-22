@@ -123,7 +123,6 @@ Please see `README-DEV.md` for developer-specific information.
 ## ✨ Credits
 
 - **You**: For using this mod.
-- **Rockstar Games**: For creating Grand Theft Auto V.
 - **ScriptHookV & ScriptHookVDotNet authors**: For their essential scripting tools.
 
 ---
